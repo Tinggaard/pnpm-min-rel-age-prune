@@ -1,0 +1,4 @@
+minimumReleaseAgeExcludePrune: true
+minimumReleaseAgeExclude:
+- is-number
+- unused-package
